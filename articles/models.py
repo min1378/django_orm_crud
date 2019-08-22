@@ -1,7 +1,7 @@
 from django.db import models
 
 
-# 1. python manage.py makemigrations => django한테 model 작성했음을 알림
+# 1. python manage.py makemigrations => django한테 model 작성했음을 알림 migrate 이주하다!!!!!
 # 2. python manage.py migrate => django한테 실제 DB에 작성함
 # Create your models here.
 
